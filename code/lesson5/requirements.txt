@@ -1,0 +1,13 @@
+# Requirements for Lesson 5
+# This file lists additional dependencies needed for the examples in Lesson 5
+
+# Core dependencies (should already be installed from main requirements.txt)
+# langchain==1.1.0
+# langchain-openai==1.1.0
+# langchain-community==0.4.1
+# langchain-classic==1.0.0
+# python-dotenv==1.2.1
+# numpy&lt;2.0.0
+
+# Additional dependencies for Lesson 5 examples
+tenacity&gt;=8.1.0,&lt;10.0.0  # For retry mechanisms
