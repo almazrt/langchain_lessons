@@ -35,7 +35,7 @@ LangChain предоставляет интеграции со сотнями LL
 </CodeGroup>
 
 <Tip>
-  Смотрите [вкладку Интеграции](/oss/python/integrations/providers/overview) для полного списка доступных интеграций.
+  См. [вкладку Интеграции](/oss/python/integrations/providers/overview) для полного списка доступных интеграций.
 </Tip>
 
 ***
